@@ -23,4 +23,11 @@ import Foundation
 
 //Num5622.run()
 
-Num2941.run()
+//Num2941.run()
+
+//Num10171.run()
+
+Num2588.run()
+
+//Num1330.run()
+
