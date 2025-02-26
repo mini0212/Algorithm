@@ -1,5 +1,5 @@
 public class Main {
 	public static void main(String[] args) throws Exception {
-		Solution11650.run();
+		Solution1920.run();
 	}
 }
